@@ -44,7 +44,7 @@ I'm a first-year Computer Science student at **USTHB** (Université des Sciences
 - 🔭 Deepening my **React** skills and working toward solid full-stack fundamentals
 - 🤖 Increasingly interested in **AI-integrated development** — building products that pair good engineering with practical AI features
 - 🚀 Long-term goal: ship a real SaaS product for the Algerian market
-- 🌍 Fluent in French (C2) and English (IELTS 7.5)
+- 🌍 Fluent in French (C2) and English 
 - 📌 I like my repos properly documented — badges, checklists, progress trackers, the works
 
 **Open to:** internships & junior/working-student roles · open-source collaboration · study-abroad & scholarship opportunities
