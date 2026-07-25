@@ -135,12 +135,12 @@ A fully documented repo tracking my progress through a complete React course —
 
 ## 💼 Experience
 
-**Software Engineering Intern** — [Company Name]
-📅 [Start Month Year] – Present · Part-time (~3 days/week)
+**Software Engineering Intern** — [Bab 08 coworking and consulting]
+📅 [Juin 2026] – Present · Part-time (~3 days/week)
 
-- [Add a bullet about what you actually work on — e.g. frontend features, bug fixes, code reviews]
-- [Add a bullet about tools/stack used on the job]
-- [Add a bullet about a specific contribution or task you're proud of]
+- [Redesigning and rebuilding the company's websites]
+- [Adding meaningfull functionalities and complete control of the website via personal dashboard]
+- [Changing the face of the company online and making it more professional]
 
 `[Add relevant skill tags, e.g. Git · REST APIs · Agile]`
 
@@ -152,7 +152,7 @@ A fully documented repo tracking my progress through a complete React course —
 - Built **Mapty** and **Forkify** — real-world projects covering APIs, OOP, and async JS
 - Maintaining a fully documented **React-Course** repo with badges, checklists, and a progress tracker
 - Balancing university coursework with a part-time software engineering internship
-- [Add any hackathons, competitions, or other recognitions here]
+- Won 3rd place in Founders camp organized by project initiative club 
 
 ---
 
