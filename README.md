@@ -42,8 +42,9 @@
 I'm a first-year Computer Science student at **USTHB** (Université des Sciences et de la Technologie Houari Boumédiène), one of the top-ranked CS universities in the Maghreb — currently balancing coursework with a part-time software engineering internship.
 
 - 🔭 Deepening my **React** skills and working toward solid full-stack fundamentals
-- 🤖 Increasingly interested in **AI-integrated development** — building products that pair good engineering with practical AI features
-- 🚀 Long-term goal: ship a real SaaS product for the Algerian market
+- 🤖 Increasingly interested in **AI development** — building products that pair good engineering with practical AI features
+- 🚀 short-term goal: ship a real SaaS product for the Algerian market
+- 🚀 long-term goal: ship a real AI powered solution for the health market
 - 🌍 Fluent in French (C2) and English 
 - 📌 I like my repos properly documented — badges, checklists, progress trackers, the works
 
