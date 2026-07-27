@@ -228,10 +228,10 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:your..com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/selslim-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6C3EF4?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://selslim-devportfolio-76aeb7.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6C3EF4?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 </div>
 
