@@ -9,10 +9,10 @@
 -->
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript/Typescript;Full-Stack+%2B;ML+ AI+Systems+Enthusiast;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript%2FTypeScript;Full-Stack+Developer;ML+%26+AI+Systems+Enthusiast;Open+to+Internships+%26+Collaboration)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript/Typescript;Full-Stack+%2B;ML+ AI+Systems+Enthusiast;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
 
 <br/>
 
