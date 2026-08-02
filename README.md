@@ -7,11 +7,18 @@
   5. Optional: add a Coding Profiles section (LeetCode/HackerRank/etc.) if you have active accounts — just tell me your handles
   This file goes in a public repo named exactly "selslim-dev" for it to show on your profile page.
 -->
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript/Typescript;Full-Stack+%2B;ML+ AI+Systems+Enthusiast;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript%2FTypeScript;Full-Stack+Developer;ML+%26+AI+Systems+Enthusiast;Open+to+Internships+%26+Collaboration)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=L1+Computer+Science+Student+%40+USTHB;Software+Engineering+Intern;React+%7C+JavaScript+%7C+TypeScript;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/University-USTHB-6C3EF4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Algiers%2C%20Algeria-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Software%20Engineering%20Intern-7C4DFF?style=for-the-badge&logo=briefcase&logoColor=white"/>
+
+</div>
+
 
 
 <br/>
