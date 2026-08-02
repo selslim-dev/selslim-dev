@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%27m%20Slim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20in%20Training%20%7C%20AI-Curious&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript;Full-Stack+%2B+AI+Integration+Enthusiast;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=L1+Computer+Science+%40+USTHB;Learning+React+%2B+JavaScript/Typescript;Full-Stack+%2B;ML+ AI+Systems+Enthusiast;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 
 <br/>
 
