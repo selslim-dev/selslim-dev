@@ -46,7 +46,7 @@
 
 ## 🧠 About Me
 
-I'm a first-year Computer Science student at **USTHB** (Université des Sciences et de la Technologie Houari Boumédiène), one of the top-ranked CS universities in the Maghreb — currently balancing coursework with a part-time software engineering internship.
+I'm a second-year Computer Science student at **USTHB** (Université des Sciences et de la Technologie Houari Boumédiène), one of the top-ranked CS universities in the Maghreb — currently balancing coursework with a part-time software engineering internship.
 
 - 🔭 Deepening my **React** skills and working toward solid full-stack fundamentals
 - 🤖 Increasingly interested in **AI development** — building products that pair good engineering with practical AI features
