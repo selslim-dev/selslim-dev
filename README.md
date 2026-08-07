@@ -1,253 +1,156 @@
-<!--
-  TODO before publishing — replace these placeholders:
-  1. Header: LinkedIn URL, email address, portfolio URL (if you have one)
-  2. Experience section: company name, start date, and real bullet points
-  3. Featured Projects: swap REPLACE-WITH-REPO-NAME links for your real repo URLs
-  4. Snake animation: needs a one-time GitHub Actions setup (ask me and I'll generate the workflow file)
-  5. Optional: add a Coding Profiles section (LeetCode/HackerRank/etc.) if you have active accounts — just tell me your handles
-  This file goes in a public repo named exactly "selslim-dev" for it to show on your profile page.
--->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=L1+Computer+Science+Student+%40+USTHB;Software+Engineering+Intern;React+%7C+JavaScript+%7C+TypeScript;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://img.shields.io/badge/University-USTHB-6C3EF4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Algiers%2C%20Algeria-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Software%20Engineering%20Intern-7C4DFF?style=for-the-badge&logo=briefcase&logoColor=white"/>
-
-</div>
-
-
-
-<br/>
-
-<img src="https://img.shields.io/badge/University-USTHB-6C3EF4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Algiers%2C%20Algeria-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Software%20Engineering%20Intern-7C4DFF?style=for-the-badge&logo=briefcase&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6C3EF4?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/selslim-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=selslim-dev&style=for-the-badge&color=6C3EF4&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/selslim-dev?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/selslim-dev?style=for-the-badge&color=7C4DFF&labelColor=1a1a2e)
-
-</div>
-
----
-
-## 🧠 About Me
-
-I'm a second-year Computer Science student at **USTHB** (Université des Sciences et de la Technologie Houari Boumédiène), one of the top-ranked CS universities in the Maghreb — currently balancing coursework with a part-time software engineering internship.
-
-- 🔭 Deepening my **React** skills and working toward solid full-stack fundamentals
-- 🤖 Increasingly interested in **AI development** — building products that pair good engineering with practical AI features
-- 🚀 short-term goal: ship a real SaaS product for the Algerian market
-- 🚀 long-term goal: ship a real AI powered solution for the health market
-- 🌍 Fluent in French (C2) and English 
-- 📌 I like my repos properly documented — badges, checklists, progress trackers, the works
-
-**Open to:** internships & junior/working-student roles · open-source collaboration · study-abroad & scholarship opportunities
-
----
-
-Tech Stack
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,c" />
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-
-Backend & Databases <sub>(in progress)</sub>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-
----
-
-## 🤖 AI-Integrated Development — What I'm Exploring
-
-| Area | What I'm Doing | Status |
-|---|---|---|
-| AI-assisted coding | Using AI tools to speed up learning, debugging, and code review | Actively using |
-| LLM API integration | Learning how to wire AI features into full-stack apps | Learning |
-| Prompt engineering fundamentals | Frontend Masters track queued up next | Planned |
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>📅 JavaScript30</b></summary>
-<br/>
-
-30 vanilla JavaScript mini-projects built in 30 days — no frameworks, no libraries.
-
-| Stack | What I Practiced | Status | Repository |
-|---|---|---|---|
-| Vanilla JS, DOM, Web APIs | Array methods, closures, async/await, DOM manipulation | ✅ Completed | [View Repo](https://github.com/selslim-dev/REPLACE-WITH-REPO-NAME) |
-
-</details>
-
-<details>
-<summary><b>🗺️ Mapty</b></summary>
-<br/>
-
-An interactive workout-tracking app that logs runs and rides on a live map.
-
-| Stack | What I Practiced | Status | Repository |
-|---|---|---|---|
-| Vanilla JS, Leaflet.js, Geolocation API | OOP with JS classes, geolocation, form workflows, map rendering | ✅ Completed | [View Repo](https://github.com/selslim-dev/REPLACE-WITH-REPO-NAME) |
-
-</details>
-
-<details>
-<summary><b>🍳 Forkify</b></summary>
-<br/>
-
-A recipe discovery app that searches a public API, with bookmarking and dynamic serving-size adjustment.
-
-| Stack | What I Practiced | Status | Repository |
-|---|---|---|---|
-| Vanilla JS, Fetch API, MVC architecture | API consumption, pagination, async data flow, state management | ✅ Completed | [View Repo](https://github.com/selslim-dev/REPLACE-WITH-REPO-NAME) |
-
-</details>
-
-<details>
-<summary><b>⚛️ React-Course</b></summary>
-<br/>
-
-A fully documented repo tracking my progress through a complete React course — badges, checklists, and a progress tracker included.
-
-| Stack | What I Practiced | Status | Repository |
-|---|---|---|---|
-| React, JSX, Hooks | Component architecture, state management, current build: Tic-Tac-Toe | 🚧 In Progress | [View Repo](https://github.com/selslim-dev/React-Course) |
-
-</details>
-
----
-
-## 💼 Experience
-
-**Software Engineering Intern** — [Bab 08 coworking and consulting]
-📅 [Juin 2026] – Present · Part-time (~3 days/week)
-
-- [Redesigning and rebuilding the company's websites]
-- [Adding meaningfull functionalities and complete control of the website via personal dashboard]
-- [Changing the face of the company online and making it more professional]
-
-`[Add relevant skill tags, e.g. Git · REST APIs · Agile]`
-
----
-
-## ✨ Highlights
-
-- Completed **JavaScript30** — 30 vanilla JS challenges in 30 days
-- Built **Mapty** and **Forkify** — real-world projects covering APIs, OOP, and async JS
-- Maintaining a fully documented **React-Course** repo with badges, checklists, and a progress tracker
-- Balancing university coursework with a part-time software engineering internship
-- Won 3rd place in Founders camp organized by project initiative club 
-
----
-
-## 📚 Courses & Continuous Learning
-
-- **Udemy** — JavaScript & Node.js (Jonas Schmedtmann)
-- **Udemy** — React & Next.js (Maximilian Schwarzmüller)
-- **Frontend Masters** — AI Engineering track (Prompt Engineering, AI Engineering Fundamentals, AI Agents, MCP, Claude Code)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=selslim-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=selslim-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selslim-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=selslim-dev&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=selslim-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8A2BE2&point=ffffff" width="100%"/>
-
----
-
-## 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img alt="Selmani Slim — profile.sh --live" src="assets/dark.svg">
+  
 </picture>
 
-<sub>*(Needs a one-time GitHub Actions workflow to generate — ask me and I'll set it up.)*</sub>
 
----
+<br>
 
-## 🎯 Current Focus
+## Introduction
 
-```yaml
-current_focus:
-  learning: "React (Maximilian Schwarzmüller's course) — building a Tic-Tac-Toe project"
-  building: "React-Course repo — structured progress tracker & badges"
-  exploring:
-    - "AI-integrated web apps"
-    - "Node.js & backend foundations"
-    - "SaaS product ideas for the Algerian market"
-  open_to:
-    - "Internships"
-    - "Junior / working-student roles"
-    - "Open-source collaboration"
-    - "Study-abroad opportunities"
+Full-Stack Developer building modern web applications while specializing in
+**Artificial Intelligence**, **Cybersecurity**, and scalable software systems.
+
+Currently an intern at **Bab08 Coworking Space** in Algiers, pursuing a
+Computer Science degree at **USTHB**, and shipping projects in the open while
+progressing toward AI engineering and security-focused backend work.
+
+- 🌍 Algiers, Algeria
+- 🎓 Computer Science @ USTHB
+- 💼 Full-Stack Developer Intern @ [Bab08 Coworking Space](https://bab08.netlify.app/)
+- 🧭 Portfolio: [selslim-devportfolio-76aeb7.netlify.app](https://selslim-devportfolio-76aeb7.netlify.app/) — improvements coming soon
+
+<br>
+
+## Experience
+
 ```
+┌────────────────────────────────────────────────────────────┐
+│  BAB08 COWORKING SPACE                                      │
+│  Full-Stack Developer Intern                                │
+├────────────────────────────────────────────────────────────┤
+│  > Website modernization and redesign                       │
+│  > Frontend architecture improvements                       │
+│  > Responsive UI engineering                                │
+│  > API integration preparation                              │
+│  > Git collaboration workflows                              │
+│  > Future AI capability exploration                         │
+├────────────────────────────────────────────────────────────┤
+│  project:// https://bab08.netlify.app/                      │
+└────────────────────────────────────────────────────────────┘
+```
+https://bab08.netlify.app/ 
 
----
+<br>
 
-## 📬 Connect With Me
+## AI.SYSTEM.STATUS
+
+**Current Focus**
+- Large Language Models
+- Prompt Engineering
+- AI-Assisted Software Development
+- Workflow Automation
+- Retrieval-Augmented Systems
+
+**Learning Roadmap**
+- Machine Learning Foundations
+- Deep Learning
+- AI Agents
+- Vector Databases
+- Model Deployment
+
+> Actively specializing — not claiming professional AI expertise.
+
+<br>
+
+## SECURITY.DOMAIN
+
+**Learning**
+- Secure Coding Practices
+- Web Application Security
+- Authentication & Authorization
+- API Security
+- OWASP Top 10
+- Security Testing Fundamentals
+
+**Mission:** Build software that is secure by design.
+
+<br>
+
+## Tech Stack
+
+**Currently using**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![React](https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A101F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0A101F?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+**Currently learning**
+
+![Node.js](https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=node.js&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-0A101F?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A101F?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQL](https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Learning & growth roadmap**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0A101F?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0A101F?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A101F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A101F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Docker](https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A101F?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![OWASP](https://img.shields.io/badge/OWASP-0A101F?style=for-the-badge&logo=owasp&logoColor=000000)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A101F?style=for-the-badge&logo=portswigger&logoColor=FF6633)
+![Postman](https://img.shields.io/badge/Postman-0A101F?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+<br>
+
+## GitHub Stats
+
+<!--
+  Self-hosted github-readme-stats — replace YOUR-VERCEL-URL once deployed.
+  See the deployment walkthrough for the steps to get this URL.
+-->
+
+<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=selslim-dev&show_icons=true&hide_rank=true&theme=radical&bg_color=0A101F&title_color=22D3EE&text_color=E5E9F5&icon_color=A78BFA&border_color=232B3D" width="49%" />
+<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=selslim-dev&layout=compact&hide_rank=true&theme=radical&bg_color=0A101F&title_color=22D3EE&text_color=E5E9F5&border_color=232B3D" width="49%" />
+
+<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=selslim-dev&show_icons=true&hide_rank=true&theme=radical&bg_color=0A101F&title_color=22D3EE&text_color=E5E9F5&icon_color=A78BFA&border_color=232B3D&stats_only=true" width="0" height="0" style="display:none" />
+
+<img src="https://streak-stats.demolab.com?user=selslim-dev&theme=radical&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=E5E9F5&border=232B3D" width="100%" />
+
+> GitHub's built-in "rank" leans heavily on stars and repo age, which under-rates
+> newer engineers — it's hidden here (`hide_rank=true`) in favor of the raw stats.
+
+<br>
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/output/snake-light.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/output/snake-dark.svg">
+</picture>
+
+<br><br>
 
 <div align="center">
 
-<a href="mailto:selmanislim8@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/selslim-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://selslim-devportfolio-76aeb7.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6C3EF4?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Building in public, one commit at a time.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://selslim-devportfolio-76aeb7.netlify.app/)
 
 </div>
