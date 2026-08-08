@@ -6,6 +6,7 @@
   <img alt="Selmani Slim banner" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/dark.svg" width="100%" />
 </picture>
 
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+-+Algiers%2C+Algeria;Builder+first%2C+engineer+second%2C+student+third;Currently+at+Bab08+Coworking+Space;Specializing+in+AI+%2B+Secure+Software)](https://github.com/selslim-dev)
@@ -115,9 +116,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://selslim-devportfolio-76aeb7.netlify.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://3d-portfolio-five-mocha.vercel.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
 
-<br><br>
+
+
+**Note that the portfolio will be updated and upgraded 💪👨‍💻🌐**
 
 <sub>Built with ☕ in Algiers — thanks for stopping by.</sub>
 
