@@ -3,26 +3,34 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/light.svg" />
-  <img alt="Selmani Slim banner" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/assets/banner-dark.svg" width="100%" />
+  <img alt="Selmani Slim banner" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/dark.svg" width="100%" />
 </picture>
+
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+-+Algiers%2C+Algeria;Builder+first%2C+engineer+second%2C+student+third;Currently+at+Bab08+Coworking+Space;Specializing+in+AI+%2B+Secure+Software)](https://github.com/selslim-dev)
+
+<br>
+
+<img src="https://img.shields.io/badge/📍-Algiers,_Algeria-22D3EE?style=for-the-badge&labelColor=0A101F" height="26" alt="location"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/🎓-USTHB_·_CS-22D3EE?style=for-the-badge&labelColor=0A101F" height="26" alt="education"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/💼-Bab08_Intern-10B981?style=for-the-badge&labelColor=0A101F" height="26" alt="role"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=selslim-dev&label=Profile+Views&color=A78BFA&style=for-the-badge" height="26" alt="profile views"/>
 
 </div>
 
-<br>
+<br><br>
 
-## Introduction
-
-Full-Stack Developer building modern web applications while specializing in Artificial Intelligence, Cybersecurity, and scalable software systems. Currently contributing to real-world products at **Bab08** in Algiers, actively shipping, and pursuing a Computer Science degree at **USTHB** alongside it — builder first, engineer second, student third.
-
-- 🌍 Algiers, Algeria
-- 🎓 Computer Science @ USTHB
-- 💼 Full-Stack Developer Intern @ [Bab08 Coworking Space](https://bab08.netlify.app/)
-- 🧠 Specializing in AI-assisted software development and secure-by-design engineering
-- 📫 selmanislim8@gmail.com
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-intro.svg" width="100%" alt="Introduction"/>
 
 <br>
 
-## Experience
+> Full-Stack Developer building modern web applications while specializing in Artificial Intelligence, Cybersecurity, and scalable software systems. Currently contributing to real-world products at **Bab08** in Algiers, actively shipping, and pursuing a Computer Science degree at **USTHB** alongside it.
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-experience.svg" width="100%" alt="Experience"/>
+
+<br>
 
 ```
 ┌─ BAB08 COWORKING SPACE ─────────────────────────────────────────┐
@@ -42,41 +50,39 @@ Full-Stack Developer building modern web applications while specializing in Arti
 └───────────────────────────────────────────────────────────────┘
 ```
 
-<br>
+<br><br>
 
-## AI.SYSTEM.STATUS
-
-**Current Focus**
-- Large Language Models
-- Prompt Engineering
-- AI-Assisted Software Development
-- Workflow Automation
-- Retrieval-Augmented Systems
-
-**Learning Roadmap**
-- Machine Learning Foundations
-- Deep Learning
-- AI Agents
-- Vector Databases
-- Model Deployment
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-ai.svg" width="100%" alt="AI.SYSTEM.STATUS"/>
 
 <br>
 
-## SECURITY.DOMAIN
+| Current Focus | Learning Roadmap |
+|---|---|
+| Large Language Models | Machine Learning Foundations |
+| Prompt Engineering | Deep Learning |
+| AI-Assisted Software Development | AI Agents |
+| Workflow Automation | Vector Databases |
+| Retrieval-Augmented Systems | Model Deployment |
 
-**Learning**
-- Secure Coding Practices
-- Web Application Security
-- Authentication & Authorization
-- API Security
-- OWASP Top 10
-- Security Testing Fundamentals
+<br><br>
 
-**Mission** — Build software that is secure by design.
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-security.svg" width="100%" alt="SECURITY.DOMAIN"/>
 
 <br>
 
-## Tech Stack
+| Learning | |
+|---|---|
+| Secure Coding Practices | API Security |
+| Web Application Security | OWASP Top 10 |
+| Authentication & Authorization | Security Testing Fundamentals |
+
+> **Mission** — Build software and AI systems that are secure by design.
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-stack.svg" width="100%" alt="Tech Stack"/>
+
+<br>
 
 **Currently Using**
 
@@ -112,15 +118,26 @@ Full-Stack Developer building modern web applications while specializing in Arti
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A101F?style=for-the-badge&logo=portswigger&logoColor=FF6633)
 ![Postman](https://img.shields.io/badge/Postman-0A101F?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-activity.svg" width="100%" alt="GitHub Activity"/>
+
 <br>
 
+<div align="center">
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=selslim-dev&theme=algolia&no-bg=true&margin-w=10&row=1&column=7)
+
+<!-- Stats / Streak / Top Languages cards slot in here once the self-hosted
+     github-readme-stats Vercel deployment URL is available (Phase 2). -->
 
 </div>
 
-<br>
+<br><br>
 
-## Contribution Snake
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-snake.svg" width="100%" alt="Contribution Snake"/>
+
+<br>
 
 <!-- Only add this section's images after the workflow has succeeded at least once - the `output` branch does not exist beforehand. -->
 
@@ -132,11 +149,17 @@ Full-Stack Developer building modern web applications while specializing in Arti
 
 <br><br>
 
-## Connect
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/assets/header-connect.svg" width="100%" alt="Connect"/>
+
+<br>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://selslim-devportfolio-76aeb7.netlify.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
+
+<br><br>
+
+<sub>Built with ☕ in Algiers — thanks for stopping by.</sub>
 
 </div>
 
