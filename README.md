@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/assets/banner-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/light.svg" />
   <img alt="Selmani Slim banner" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/assets/banner-dark.svg" width="100%" />
 </picture>
 
@@ -114,19 +114,7 @@ Full-Stack Developer building modern web applications while specializing in Arti
 
 <br>
 
-## GitHub Stats
 
-<!--
-PENDING: self-hosted github-readme-stats deployment URL (Phase 2).
-Replace YOUR-VERCEL-URL below once your Vercel deployment is live.
--->
-
-<div align="center">
-
-<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=selslim-dev&show_icons=true&hide_rank=true&theme=transparent&title_color=22D3EE&text_color=E7E9F5&icon_color=A78BFA&bg_color=00000000" width="100%" />
-
-<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=selslim-dev&layout=compact&hide_rank=true&theme=transparent&title_color=22D3EE&text_color=E7E9F5&bg_color=00000000" width="49%" />
-<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=selslim-dev&show_icons=true&hide_rank=true&theme=transparent&title_color=22D3EE&text_color=E7E9F5&icon_color=A78BFA&bg_color=00000000" width="49%" />
 
 </div>
 
