@@ -18,68 +18,19 @@
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-intro.svg" width="100%" alt="Introduction"/>
 
-```
-$ ./profile.sh --status
-
-[ROLE]   Full-Stack Developer — modern web systems, engineered end-to-end
-[SPEC]   Artificial Intelligence . Cybersecurity . Scalable Software
-[NODE]   Bab08 Coworking Space, Algiers — shipping to production
-[EDU]    Computer Science @ USTHB — in parallel
-[STATE]  ● building . learning . shipping
-```
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/panel-status.svg" width="100%" alt="System status panel"/>
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-experience.svg" width="100%" alt="Experience"/>
 
-```
-┌─ BAB08 COWORKING SPACE ──────────────────────────────────● LIVE ─┐
-│                                                                  │
-│ Role .......................... Full-Stack Developer Intern      │
-│ Status ........................ Building . Learning . Shipping   │
-│                                                                  │
-│ Responsibilities                                                 │
-│   > Website modernization and redesign                           │
-│   > Frontend architecture improvements                           │
-│   > Responsive UI engineering                                    │
-│   > API integration preparation                                  │
-│   > Git collaboration workflows                                  │
-│   > Future AI capability exploration                             │
-│                                                                  │
-│ Project ....................... bab08.netlify.app                │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/panel-bab08.svg" width="100%" alt="Bab08 live status panel"/>
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-ai.svg" width="100%" alt="AI.SYSTEM.STATUS"/>
 
-```
-AI.FOCUS
-  > Large Language Models
-  > Prompt Engineering
-  > AI-Assisted Software Development
-  > Workflow Automation
-  > Retrieval-Augmented Systems
-
-AI.ROADMAP
-  > Machine Learning Foundations
-  > Deep Learning
-  > AI Agents
-  > Vector Databases
-  > Model Deployment
-```
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/panel-ai.svg" width="100%" alt="AI focus and roadmap panel"/>
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-security.svg" width="100%" alt="SECURITY.DOMAIN"/>
 
-```
-SECURITY.FOCUS
-  > Secure Coding Practices
-  > Web Application Security
-  > Authentication & Authorization
-  > API Security
-  > OWASP Top 10
-  > Security Testing Fundamentals
-```
-
-> **`MISSION`** — Build software and AI systems that are secure by design.
+<img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/panel-security.svg" width="100%" alt="Security focus panel"/>
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-stack.svg" width="100%" alt="Tech Stack"/>
 
