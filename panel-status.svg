@@ -1,0 +1,16 @@
+<svg viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="818" height="198" rx="14" ry="14" fill="#0A101F" stroke="#232D45" stroke-width="1.4"/>
+<path d="M1,15 Q1,1 15,1 L805,1 Q819,1 819,15 L819,46 L1,46 Z" fill="#0D1526"/>
+<line x1="0" y1="46" x2="820" y2="46" stroke="#182036" stroke-width="1.2"/>
+<circle cx="26" cy="23.0" r="5.5" fill="#FF5F56"/>
+<circle cx="44" cy="23.0" r="5.5" fill="#FFBD2E"/>
+<circle cx="62" cy="23.0" r="5.5" fill="#27C93F"/>
+<text x="88" y="28.0" font-family="'SFMono-Regular','Menlo','Consolas','Liberation Mono',monospace" font-size="13.5" fill="#6B7A9B">profile.sh --status</text>
+<rect x="743.6" y="11" width="58.400000000000006" height="24" rx="12.0" fill="#10B981" fill-opacity="0.14" stroke="#10B981" stroke-opacity="0.55" stroke-width="1"/>
+<circle cx="757.6" cy="23.0" r="3.4" fill="#10B981"/>
+<text x="767.6" y="27.5" font-family="'SFMono-Regular','Menlo','Consolas','Liberation Mono',monospace" font-size="12" font-weight="600" fill="#10B981">ONLINE</text>
+<text x="30" y="70" font-family="'SFMono-Regular','Menlo','Consolas','Liberation Mono',monospace" font-size="15.5"><tspan fill="#9FB0CE">Role </tspan><tspan fill="#33415C">........................ </tspan><tspan fill="#E7ECF5" font-weight="600">Full-Stack Developer</tspan></text>
+<text x="30" y="97" font-family="'SFMono-Regular','Menlo','Consolas','Liberation Mono',monospace" font-size="15.5"><tspan fill="#9FB0CE">Specialization </tspan><tspan fill="#33415C">.............. </tspan><tspan fill="#E7ECF5" font-weight="600">AI + Secure Software</tspan></text>
+<text x="30" y="124" font-family="'SFMono-Regular','Menlo','Consolas','Liberation Mono',monospace" font-size="15.5"><tspan fill="#9FB0CE">Node </tspan><tspan fill="#33415C">........................ </tspan><tspan fill="#E7ECF5" font-weight="600">Bab08 Coworking Space</tspan></text>
+<text x="30" y="151" font-family="'SFMono-Regular','Menlo','Consolas','Liberation Mono',monospace" font-size="15.5"><tspan fill="#9FB0CE">Status </tspan><tspan fill="#33415C">...................... </tspan><tspan fill="#E7ECF5" font-weight="600">Building . Learning . Shipping</tspan></text>
+</svg>
