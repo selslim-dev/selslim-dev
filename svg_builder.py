@@ -34,7 +34,7 @@ THEMES = {
 
 ROWS = [
     [("Subject", "Selmani Slim"), ("Role", "Full-Stack Developer"),
-     ("Specialization", "AI + Secure Software"), ("Origin", "Algiers, Algeria"),
+     ("Specialization", "AI + Secure Software"), ("Location", "Algiers, Algeria"),
      ("Education", "USTHB Computer Science"), ("Experience", "Bab08 Intern"),
      ("Status", "Building / Learning / Shipping")],
     [("Current.Project", "Bab08 Website Modernization"), ("AI.Focus", "LLMs + Agents + Automation"),
