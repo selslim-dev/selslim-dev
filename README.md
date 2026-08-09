@@ -9,61 +9,81 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+-+Algiers%2C+Algeria;Builder+first%2C+engineer+second%2C+student+third;Currently+at+Bab08+Coworking+Space;Specializing+in+AI+%2B+Secure+Software)](https://github.com/selslim-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%3A%3A+Algiers%2C+Algeria;Builder+first%2C+engineer+second%2C+student+third;Active+Node%3A+Bab08+Coworking+Space;Focus%3A+AI+Systems+%2B+Secure+Software)](https://github.com/selslim-dev)
 
 
-<img src="https://img.shields.io/badge/📍-Algiers,_Algeria-22D3EE?style=for-the-badge&labelColor=0A101F" height="26" alt="location"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/🎓-USTHB_·_CS-22D3EE?style=for-the-badge&labelColor=0A101F" height="26" alt="education"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/💼-Bab08_Intern-10B981?style=for-the-badge&labelColor=0A101F" height="26" alt="role"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=selslim-dev&label=Profile+Views&color=A78BFA&style=for-the-badge" height="26" alt="profile views"/>
+<img src="https://img.shields.io/badge/Origin-Algiers,_Algeria-22D3EE?style=for-the-badge&labelColor=0A101F" height="26" alt="origin"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Education-USTHB_·_CS-22D3EE?style=for-the-badge&labelColor=0A101F" height="26" alt="education"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-Bab08_Intern-10B981?style=for-the-badge&labelColor=0A101F" height="26" alt="role"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=selslim-dev&label=Profile.Views&color=A78BFA&style=for-the-badge" height="26" alt="profile views"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-intro.svg" width="100%" alt="Introduction"/>
 
-> Full-Stack Developer building modern web applications while specializing in Artificial Intelligence, Cybersecurity, and scalable software systems. Currently contributing to real-world products at **Bab08** in Algiers, actively shipping, and pursuing a Computer Science degree at **USTHB** alongside it.
+```
+$ ./profile.sh --status
+
+[ROLE]   Full-Stack Developer — modern web systems, engineered end-to-end
+[SPEC]   Artificial Intelligence . Cybersecurity . Scalable Software
+[NODE]   Bab08 Coworking Space, Algiers — shipping to production
+[EDU]    Computer Science @ USTHB — in parallel
+[STATE]  ● building . learning . shipping
+```
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-experience.svg" width="100%" alt="Experience"/>
 
-
 ```
-┌─ BAB08 COWORKING SPACE ─────────────────────────────────────────┐
-│                                                                   │
-│  Role:            Full-Stack Developer Intern                    │
-│                                                                   │
-│  Current Responsibilities                                        │
-│    · Website modernization and redesign                          │
-│    · Frontend architecture improvements                          │
-│    · Responsive UI engineering                                   │
-│    · API integration preparation                                 │
-│    · Git collaboration workflows                                 │
-│    · Future AI capability exploration                            │
-│                                                                   │
-│  Project:         https://bab08.netlify.app/                     │
-│                                                                   │
-└───────────────────────────────────────────────────────────────┘
+┌─ BAB08 COWORKING SPACE ──────────────────────────────────● LIVE ─┐
+│                                                                  │
+│ Role .......................... Full-Stack Developer Intern      │
+│ Status ........................ Building . Learning . Shipping   │
+│                                                                  │
+│ Responsibilities                                                 │
+│   > Website modernization and redesign                           │
+│   > Frontend architecture improvements                           │
+│   > Responsive UI engineering                                    │
+│   > API integration preparation                                  │
+│   > Git collaboration workflows                                  │
+│   > Future AI capability exploration                             │
+│                                                                  │
+│ Project ....................... bab08.netlify.app                │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-ai.svg" width="100%" alt="AI.SYSTEM.STATUS"/>
 
-| Current Focus | Learning Roadmap |
-|---|---|
-| Large Language Models | Machine Learning Foundations |
-| Prompt Engineering | Deep Learning |
-| AI-Assisted Software Development | AI Agents |
-| Workflow Automation | Vector Databases |
-| Retrieval-Augmented Systems | Model Deployment |
+```
+AI.FOCUS
+  > Large Language Models
+  > Prompt Engineering
+  > AI-Assisted Software Development
+  > Workflow Automation
+  > Retrieval-Augmented Systems
+
+AI.ROADMAP
+  > Machine Learning Foundations
+  > Deep Learning
+  > AI Agents
+  > Vector Databases
+  > Model Deployment
+```
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-security.svg" width="100%" alt="SECURITY.DOMAIN"/>
 
-| Learning | |
-|---|---|
-| Secure Coding Practices | API Security |
-| Web Application Security | OWASP Top 10 |
-| Authentication & Authorization | Security Testing Fundamentals |
+```
+SECURITY.FOCUS
+  > Secure Coding Practices
+  > Web Application Security
+  > Authentication & Authorization
+  > API Security
+  > OWASP Top 10
+  > Security Testing Fundamentals
+```
 
-> **Mission** — Build software and AI systems that are secure by design.
+> **`MISSION`** — Build software and AI systems that are secure by design.
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-stack.svg" width="100%" alt="Tech Stack"/>
 
-**Currently Using**
+**`STACK.ACTIVE`**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -76,7 +96,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0A101F?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-**Currently Learning**
+**`STACK.LEARNING`**
 
 ![Next.js](https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -116,13 +136,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://3d-portfolio-five-mocha.vercel.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
+[![LinkedIn](https://img.shields.io/badge/Grid.LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Grid.Mail-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Grid.Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://3d-portfolio-five-mocha.vercel.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
 
 
 
-**Note that the portfolio will be updated and upgraded 💪👨‍💻🌐**
+`[NOTICE]` Portfolio rebuild in progress — expect frequent updates.
 
-<sub>Built with ☕ in Algiers — thanks for stopping by.</sub>
+<sub>Compiled with ☕ in Algiers — thanks for stopping by.</sub>
 
 </div>
 
