@@ -79,7 +79,7 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/output/snake-dark.svg" width="100%" />
 </picture>
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/selslim-dev/selslim-dev/main/header-connect.svg" width="100%" alt="Connect"/>
 
