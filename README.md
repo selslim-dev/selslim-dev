@@ -91,7 +91,7 @@
 
 
 
-`[NOTICE]` Portfolio rebuild in progress — expect frequent updates.
+`[NOTICE]` Portfolio rebuild in progress — expect frequent updates and modernization.
 
 <sub>Compiled with ☕ in Algiers — thanks for stopping by.</sub>
 
