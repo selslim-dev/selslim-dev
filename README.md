@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Grid.LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Grid.Mail-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Grid.Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://3d-portfolio-five-mocha.vercel.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
+[![LinkedIn](https://img.shields.io/badge/Grid.LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slim-selmani-a1946a3a7/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Grid.Mail-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmanislim8@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Grid.Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=white)](https://slim-selmani.netlify.app/)&nbsp;&nbsp;<!-- Facebook badge pending: no Facebook URL was provided -->
 
 
 
